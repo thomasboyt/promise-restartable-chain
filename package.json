@@ -1,0 +1,19 @@
+{
+  "name": "promise-restartable-chain",
+  "version": "0.1.0",
+  "description": "A restartable promise chain using Q.",
+  "main": "index.js",
+  "dependencies": {
+    "q": "~1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "chai": "~1.9.0",
+    "mocha-as-promised": "~2.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Thomas Boyt",
+  "license": "MIT"
+}
